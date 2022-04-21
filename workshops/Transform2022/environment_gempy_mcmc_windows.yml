@@ -1,0 +1,41 @@
+name: gempy_mcmc_py38
+
+channels:
+  - conda-forge
+  - defaults
+dependencies: 
+  - python=3.8
+  - numpy
+  - scipy
+  - mkl-service
+  - libpython
+  - m2w64-toolchain
+  - pytest
+  - git
+  - Theano
+  - pygpu
+  - matplotlib~=3.2
+  - seaborn>=0.9
+  - networkx
+  - scikit-image>=0.17.2
+  - pyvista=0.24
+  - iPython
+  - jupyter
+  - notebook
+  - pymc3=3.8
+  - arviz=0.10.0
+  - python-graphviz
+  - pyevtk
+  - requests
+  - pip
+  - pip:
+    - qgrid==1.3.0
+    - mplstereonet
+    - pyqrcode
+    - pyqt5
+    - gempy
+    - welly==0.4.8
+    - wellpathpy
+    - striplog
+    - subsurface
+    - pandas==1.2.2
