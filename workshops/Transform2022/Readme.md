@@ -7,3 +7,6 @@ Starting from a simple inference problem, we show PyMC3s capabilities in pythoni
 Contributors:
 * [Miguel de la Varga](https://github.com/Leguark/)  
 * [Jan Niederau](https://github.com/Japhiolite)
+
+
+![image](https://raw.githubusercontent.com/cgre-aachen/gempy_workshops/master/workshops/Transform2022/images/Models-01.png)
