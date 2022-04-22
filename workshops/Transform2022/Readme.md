@@ -9,4 +9,4 @@ Contributors:
 * [Jan Niederau](https://github.com/Japhiolite)
 
 
-![image](https://raw.githubusercontent.com/cgre-aachen/gempy_workshops/master/workshops/Transform2022/images/Models-01.png)
+![image](https://raw.githubusercontent.com/cgre-aachen/gempy_workshops/master/workshops/Transform2022/images/Models-01_white_bckgrnd.png)
